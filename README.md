@@ -86,15 +86,25 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 
 **Aprovação**: Serão aprovados os alunos que obtiverem a média final maior que 5 (média de todas as avaliações semanais realizadas durante o semestre)
 
-### Banco de exercícios
+### Mais detalhes sobre a avaliação em sala de aula
+
+* Cada avaliação terá duração aproximada de 30 minutos
+* O aluno deverá desenvolver/demonstrar toda a solução (não será considerada a questão que tiver somente o valor como resposta)
+* O exercício somente será aceito se for feito:
+    - Em papel A4 branco (de responsabilidade do aluno)
+    - (caso use mais de uma página) Com solução somente na frente do papel (o verso não será considerado)
+    - Com caneta azul ou preta
+* O aluno deverá identificar sua avaliação, de forma clara e destacada, com seu **nome** e **matrícula** no topo de todas as páginas
+* Todas as páginas também precisam estar **numeradas**
+
+## Banco de exercícios
 
 Todos os exercícios do curso estão disponíveis [aqui](/exercicios/Evernote_index.html)
 
-https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html
+A grande maioria dos exercícios já está com gabarito e resolução.
 
-/exercicios/Evernote_index.html
+## Canal de Comunicação (e cadastro)
 
-A grande maioria dos exercícios já estão com gabarito e com a resolução.
+slack
 
-[link avaliacoes](avaliacoes.md)
-
+## planilha para apresentação de resultados
