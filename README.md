@@ -88,7 +88,11 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 
 ### Banco de exercícios
 
-Todos os exercícios do curso estão disponíveis [aqui](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
+Todos os exercícios do curso estão disponíveis [aqui](/exercicios/Evernote_index.html)
+
+https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html
+
+/exercicios/Evernote_index.html
 
 A grande maioria dos exercícios já estão com gabarito e com a resolução.
 
