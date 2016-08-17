@@ -84,4 +84,13 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
     * Poderá haver semana sem avaliação
 * Como o curso terá uma duração aproximada de 17 semanas, o total de avaliações durante o semestre será um número próximo desse (podendo variar para mais ou para menos)
 
+**Aprovação**: Serão aprovados os alunos que obtiverem a média final maior que 5 (média de todas as avaliações semanais realizadas durante o semestre)
+
+### Banco de exercícios
+
+Todos os exercícios do curso estão disponíveis [aqui](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
+
+A grande maioria dos exercícios já estão com gabarito e com a resolução.
+
+[link avaliacoes](avaliacoes.md)
 
