@@ -31,41 +31,41 @@ Métodos analíticos aplicados à solução de problemas complexos e modelagem q
 
 ## Cronograma de Aulas
 
-| Dia        | Dia da Semana | Número da Semana do Ano |
-|------------|---------------|-------------------------|
-| 18/08/2016 | 5             | 34                      |
-| 23/08/2016 | 3             | 35                      |
-| 25/08/2016 | 5             | 35                      |
-| 30/08/2016 | 3             | 36                      |
-| 01/09/2016 | 5             | 36                      |
-| 06/09/2016 | 3             | 37                      |
-| 08/09/2016 | 5             | 37                      |
-| 13/09/2016 | 3             | 38                      |
-| 15/09/2016 | 5             | 38                      |
-| 20/09/2016 | 3             | 39                      |
-| 22/09/2016 | 5             | 39                      |
-| 27/09/2016 | 3             | 40                      |
-| 29/09/2016 | 5             | 40                      |
-| 04/10/2016 | 3             | 41                      |
-| 06/10/2016 | 5             | 41                      |
-| 11/10/2016 | 3             | 42                      |
-| 13/10/2016 | 5             | 42                      |
-| 18/10/2016 | 3             | 43                      |
-| 20/10/2016 | 5             | 43                      |
-| 25/10/2016 | 3             | 44                      |
-| 27/10/2016 | 5             | 44                      |
-| 01/11/2016 | 3             | 45                      |
-| 03/11/2016 | 5             | 45                      |
-| 08/11/2016 | 3             | 46                      |
-| 10/11/2016 | 5             | 46                      |
-| 15/11/2016 | 3             | 47                      |
-| 17/11/2016 | 5             | 47                      |
-| 22/11/2016 | 3             | 48                      |
-| 24/11/2016 | 5             | 48                      |
-| 29/11/2016 | 3             | 49                      |
-| 01/12/2016 | 5             | 49                      |
-| 06/12/2016 | 3             | 50                      |
-| 08/12/2016 | 5             | 50                      |
+| Dia        | Dia da Semana | Número da Semana do Ano | Matérias concluídas |
+|------------|---------------|-------------------------|---------------------|
+| 18/08/2016 | 5             | 34                      | Introdução                    |
+| 23/08/2016 | 3             | 35                      |                     |
+| 25/08/2016 | 5             | 35                      |                     |
+| 30/08/2016 | 3             | 36                      |                     |
+| 01/09/2016 | 5             | 36                      |                     |
+| 06/09/2016 | 3             | 37                      |                     |
+| 08/09/2016 | 5             | 37                      |                     |
+| 13/09/2016 | 3             | 38                      |                     |
+| 15/09/2016 | 5             | 38                      |                     |
+| 20/09/2016 | 3             | 39                      |                     |
+| 22/09/2016 | 5             | 39                      |                     |
+| 27/09/2016 | 3             | 40                      |                     |
+| 29/09/2016 | 5             | 40                      |                     |
+| 04/10/2016 | 3             | 41                      |                     |
+| 06/10/2016 | 5             | 41                      |                     |
+| 11/10/2016 | 3             | 42                      |                     |
+| 13/10/2016 | 5             | 42                      |                     |
+| 18/10/2016 | 3             | 43                      |                     |
+| 20/10/2016 | 5             | 43                      |                     |
+| 25/10/2016 | 3             | 44                      |                     |
+| 27/10/2016 | 5             | 44                      |                     |
+| 01/11/2016 | 3             | 45                      |                     |
+| 03/11/2016 | 5             | 45                      |                     |
+| 08/11/2016 | 3             | 46                      |                     |
+| 10/11/2016 | 5             | 46                      |                     |
+| 15/11/2016 | 3             | 47                      |                     |
+| 17/11/2016 | 5             | 47                      |                     |
+| 22/11/2016 | 3             | 48                      |                     |
+| 24/11/2016 | 5             | 48                      |                     |
+| 29/11/2016 | 3             | 49                      |                     |
+| 01/12/2016 | 5             | 49                      |                     |
+| 06/12/2016 | 3             | 50                      |                     |
+| 08/12/2016 | 5             | 50                      |                     |
 
 **Total de semanas de curso:** 17 semanas
 
@@ -84,7 +84,26 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
     * Poderá haver semana sem avaliação
 * Como o curso terá uma duração aproximada de 17 semanas, o total de avaliações durante o semestre será um número próximo desse (podendo variar para mais ou para menos)
 
-**Aprovação**: Serão aprovados os alunos que obtiverem a média final maior que 5 (média de todas as avaliações semanais realizadas durante o semestre)
+### Aprovação
+* Serão aprovados os alunos que obtiverem a média final maior que 5 (média de todas as avaliações semanais realizadas durante o semestre)
+* Somente serão aprovados os alunos que **fizerem todos os exercícios/avaliações do semestre**
+
+### Casos especiais:
+
+#### E se eu não fizer um exercício/avaliação? E se eu faltar logo a aula do exercício/avaliação?
+
+* Faltas somente serão justificadas mediante apresentação de atestado médico coerente com os casos justificáveis, determinados pela UnB
+* **Em caso de não realização da avaliação juntamente com a turma**: A avaliação de reposição poderá ser feita posteriormente, em dia e horário marcado com o professor. De antemão, a preferência será dada para os horários de terça e quinta, entre 10hrs e 12hrs (horário após as aulas)
+    * **Para os casos justificados**: A nota será integral, sem descontos.
+    * **Para os casos _NÃO_ justificados**: A não realização juntamente com toda a turma incorrerá em nota 0 (zero). Vale lembrar que para passar na matéria o aluno terá que fazer todos os exercícios/avaliações.
+        * Nesse caso, o aluno poderá entregar o exercício posteriormente
+        * O exercício entregue deverá estar 100% correto (tanto o resultado final quanto o desenvolvimento da questão)
+        * Caso haja algum erro na resolução do exercício, a entrega será DESCONSIDERADA
+
+**IMPORTANTE!**: Já falei que quem não fizer/entregar todos os exercícios/avaliações estará automaticamente reprovado?
+
+**IMPORTANTE 2!**: Já falei que o aluno que "entregar o exercício depois", deverá apresentar o GABARITO do exercício? Caso contrário a entrega será desconsiderada? Já falei isso?
+
 
 ### Mais detalhes sobre a avaliação em sala de aula
 
@@ -94,8 +113,19 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
     - Em papel A4 branco (de responsabilidade do aluno)
     - (caso use mais de uma página) Com solução somente na frente do papel (o verso não será considerado)
     - Com caneta azul ou preta
-* O aluno deverá identificar sua avaliação, de forma clara e destacada, com seu **nome** e **matrícula** no topo de todas as páginas
-* Todas as páginas também precisam estar **numeradas**
+* O aluno deverá se identificar na sua avaliação, de forma clara e destacada, com seu **nome** e **matrícula** no topo de todas as páginas
+* Todas as páginas também precisam estar **numeradas** e **grampeadas** (de responsabilidade do aluno)
+
+### Como será a correção?
+
+* O professor irá corrigir os exercícios
+* As avaliações e correções serão digitalizadas e upadas no repositório da turma
+    - As imagens estarão disponíveis na pasta 
+* As notas serão atualizadas no quadro de notas
+
+### Quadro de notas
+
+https://airtable.com/shrm8ockpuX5TGniU
 
 ## Banco de exercícios
 
@@ -103,7 +133,46 @@ Todos os exercícios do curso estão disponíveis [aqui](/exercicios/Evernote_in
 
 A grande maioria dos exercícios já está com gabarito e resolução.
 
-## Canal de Comunicação (e cadastro)
+As avaliações serão retiradas desse banco de exercícios.
+
+
+## Cadastro do Aluno
+
+Todos os alunos deverão se "cadastrar" na disciplina.
+
+Deverão preencher sua matrícula, nome completo e e-mail nessa [PLANILHA DE CADASTRO](https://docs.google.com/spreadsheets/d/1huO6vpQYwJo73ilOO0ZEeiJX9KXrSC5chD1GCC1koxE/edit?usp=sharing)
+
+*Mas por que professor? Por que eu preciso preencher meus dados nessa planilha?*
+* Todas as notas serão lançadas em função do seu cadastro dessa planilha, de forma on-line (logo, sem cadastro, sem nota)
+* Essa será sua forma de "provar a presença"
+* O e-mail cadastrado será nossa fonte de comunicação principal, ou o email que será utilizado para o cadastro nas plataformas que servirão de suporte a esse curso (como o [Slack](www.slack.com), por exemplo)
+
+Por isso, certifique-se que o as informações cadastradas estão corretas.
+
+## Canal de Comunicação
+
+Para nossa comunicação direta usaremos o aplicativo/site [Slack](www.slack.com).
+
+Criei o time da turma (unb-mmqd1-2016-2.slack.com) e os alunos serão incluídos no grupo a medida que os e-mails forem preenchidos na [PLANILHA DE CADASTRO](https://docs.google.com/spreadsheets/d/1huO6vpQYwJo73ilOO0ZEeiJX9KXrSC5chD1GCC1koxE/edit?usp=sharing).
+
+O [Slack](www.slack.com) funciona como um chat voltado para o trabalho de equipes. É muito fácil de usar, tem aplicativo para smartphone e é uma das ferramentas mais utilizadas para comunicação e trabalho colaborativo no mundo.
+
+Qualquer dúvida, acesse: google.com, youtube.com, etc...
+
+### Para que usaremos o [Slack](www.slack.com)?
+
+* Tirar dúvidas remotamente (comigo, alunos, etc...)
+* Receber avisos, notificações, etc...
+* Compartilhar vídeos bonitinhos de gatinhos e cachorrinhos (não vale envio de baixaria)
+
+
+
+
+
+
+
+
+
 
 slack
 
