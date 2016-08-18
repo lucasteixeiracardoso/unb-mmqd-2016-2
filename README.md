@@ -120,7 +120,7 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 
 * O professor irá corrigir os exercícios
 * As avaliações e correções serão digitalizadas e upadas no repositório da turma
-    - As imagens estarão disponíveis na pasta 
+    - As imagens estarão disponíveis na pasta ["avaliacoes"](/avaliacoes/) em nosso repositorio
 * As notas serão atualizadas no quadro de notas
 
 ### Quadro de notas
