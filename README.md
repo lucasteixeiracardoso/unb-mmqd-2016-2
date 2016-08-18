@@ -85,12 +85,11 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 * Como o curso terá uma duração aproximada de 17 semanas, o total de avaliações durante o semestre será um número próximo desse (podendo variar para mais ou para menos)
 
 ### Aprovação
-* Serão aprovados os alunos que obtiverem a média final maior que 5 (média de todas as avaliações semanais realizadas durante o semestre)
+* Serão aprovados os alunos que obtiverem a média final maior que 5
+    * A nota final será composta pela média de todas as avaliações semanais realizadas durante o semestre
 * Somente serão aprovados os alunos que **fizerem todos os exercícios/avaliações do semestre**
 
-### Casos especiais:
-
-#### E se eu não fizer um exercício/avaliação? E se eu faltar logo a aula do exercício/avaliação?
+> **E se eu não fizer um exercício/avaliação? E se eu faltar logo a aula do exercício/avaliação?**
 
 * Faltas somente serão justificadas mediante apresentação de atestado médico coerente com os casos justificáveis, determinados pela UnB
 * **Em caso de não realização da avaliação juntamente com a turma**: A avaliação de reposição poderá ser feita posteriormente, em dia e horário marcado com o professor. De antemão, a preferência será dada para os horários de terça e quinta, entre 10hrs e 12hrs (horário após as aulas)
@@ -104,7 +103,6 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 
 **IMPORTANTE 2!**: Já falei que o aluno que "entregar o exercício depois", deverá apresentar o GABARITO do exercício? Caso contrário a entrega será desconsiderada? Já falei isso?
 
-
 ### Mais detalhes sobre a avaliação em sala de aula
 
 * Cada avaliação terá duração aproximada de 30 minutos
@@ -116,16 +114,12 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 * O aluno deverá se identificar na sua avaliação, de forma clara e destacada, com seu **nome** e **matrícula** no topo de todas as páginas
 * Todas as páginas também precisam estar **numeradas** e **grampeadas** (de responsabilidade do aluno)
 
-### Como será a correção?
+### Como será a correção e divulgação das notas?
 
 * O professor irá corrigir os exercícios
 * As avaliações e correções serão digitalizadas e upadas no repositório da turma
     - As imagens estarão disponíveis na pasta ["avaliacoes"](/avaliacoes/) em nosso repositorio
-* As notas serão atualizadas no quadro de notas
-
-### Quadro de notas
-
-https://airtable.com/shrm8ockpuX5TGniU
+* As notas serão atualizadas e disponibilizadas no [QUADRO DE NOTAS](https://airtable.com/shrm8ockpuX5TGniU)
 
 ## Banco de exercícios
 
@@ -134,7 +128,6 @@ Todos os exercícios do curso estão disponíveis [aqui](/exercicios/Evernote_in
 A grande maioria dos exercícios já está com gabarito e resolução.
 
 As avaliações serão retiradas desse banco de exercícios.
-
 
 ## Cadastro do Aluno
 
@@ -165,15 +158,11 @@ Qualquer dúvida, acesse: google.com, youtube.com, etc...
 * Receber avisos, notificações, etc...
 * Compartilhar vídeos bonitinhos de gatinhos e cachorrinhos (não vale envio de baixaria)
 
+## Bibliografia do curso
 
+* Taha, H. A. Pesquisa Operacional. Pearson/Prentice Hall, 8ª Edição 2007.
+* Lachtermacher, G. Pesquisa operacional na tomada de decisão. Elsevier/Campus, 2009.
+* Weatherford, L. R. Tomada de decisão em Administração com planilhas eletrônicas. Bookman, 2005.
+* Savage, S. L. Decision making with insight. Thomson Learning, 2003.
+* Hillier, F. S.; Lieberman, G. J. Introduction to operations research. McGraw-Hill Science, 2002.
 
-
-
-
-
-
-
-
-slack
-
-## planilha para apresentação de resultados
