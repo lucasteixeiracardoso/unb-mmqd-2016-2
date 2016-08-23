@@ -1,6 +1,10 @@
 # unb-mmqd-2016-2
 Turma de [Métodos e Modelos Quantitativos de Decisão 1](https://matriculaweb.unb.br/graduacao/oferta_dados.aspx?cod=181102&campus=1), do curso de graduação em Administração, pela UnB.
 
+## Atalho Rápido:
+* [Banco de Exercícios](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
+* [Todas as Aulas](https://gubasso.github.io/unb-mmqd-2016-2/aulas/Evernote_index.html)
+
 
 ## Informações Gerais
 
@@ -123,7 +127,7 @@ Toda semana haverá um momento de avaliação, onde os alunos irão realizar exe
 
 ## Banco de exercícios
 
-Todos os exercícios do curso estão disponíveis [aqui](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
+[Todos os exercícios do curso estão disponíveis aqui](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
 
 A grande maioria dos exercícios já está com gabarito e resolução.
 
