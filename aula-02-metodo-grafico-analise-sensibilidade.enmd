@@ -1,0 +1,64 @@
+---
+title: aula-02-metodo-grafico-analise-sensibilidade
+tags: ["p unb mmqd1", "prova_titulos"]
+notebook: p-unb-mmqd1-aulas
+---
+
+# Aula 02 - Método Gráfico - Análise de Sensibilidade
+*(cap. 3 pg. 55, 3.6 ANÁLISE DE SENSIBILIDADE, 3.6.1 Análise de Sensibilidade gráfica, taha, 2008)*
+
+## Análise de Sensibilidade (2 tipos)
+
+1. Sensibilidade da solução ótima às variações na disponibilidade dos recursos (lado direito das restrições) : **PREÇO DUAL**
+1. Sensibilidade da solução ótima às variações no "lucro unitário" ou "custo unitário" (coeficientes da função objetivo) : **Coeficientes da F. O.**
+
+> **Exemplo: Questão Jobco**
+> 
+> *Exemplo 3.6-1, Exercicio - Jobco (Produto 1 e 2, Máquina 1 e 2)*
+> 
+> A Jobco produz dois produtos em duas máquinas. Uma unidade do produto 1 requer duas horas na máquina 1 e uma hora na máquina 2. Para o produto 2, uma unidade requer uma hora na máquina 1 e três horas na máquina 2. As receitas por unidade dos produtos 1 e 2 são R$ 30,00 e R$ 20,00, respectivamente. O tempo de processamento diário disponível para cada máquina é de oito horas.
+
+### **PREÇO DUAL**: Resumo do passo-a-passo
+*Exemplo 3.6-1, Variações no Lado Direito, Jobco*
+
+1. **Resolver o problema de programação linear (otimização)**
+1. Para cada restrição (resolver uma de cada vez):
+	1. Alterar o valor da direita (limite da restrição) em 1 unidade
+	1. Traçar a nova reta da nova restrição
+	1. Achar o novo ponto de interseção
+	1. Achar o novo Z ótimo
+	1. Calcular a taxa de variação (Preço Dual)
+	1. Calcular a Faixa de Viabilidade
+
+### **PREÇO DUAL**: Qual é a utilidade do preço dual? (tomada de decisão)
+
+1. Se a Jobco puder aumentar a capacidade de ambas as máquinas, qual delas deve receber maior prioridade?
+1. É dada uma sugestão para aumentar as capacidades das máquinas 1 e 2 ao custo adicional de $ 10/hora. Isso é aconselhável?
+1. Se a capacidade de máquina 1 for aumentada das 8 horas para 13 horas, qual será o impacto desse aumento na receita ótima?
+1. Supondo que a capacidade da máquina 1 seja aumentada para 20 horas, qual será o impacto desse aumento sobre a receita ótima?
+1. Sabemos que a variação no valor ótimo da função objetivo é igual a (Preço dual x Variação do recurso) contanto que a variação do recurso esteja dentro da faixa e viabilidade. O que dizer dos valores ótimos das variáveis?
+
+### **Coeficientes da F. O.**: Resumo do Passo-a-Passo 
+*Exemplo 3.6.2, Jobco, Alterações nos coeficientes da função objetivo*
+
+1. Resolver o problema de programação linear (otimização)
+1. Imagine a reta Z “girando”
+	1. O “giro” está contido entre quais restrições?
+1. Calcule a relação ![formula](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bc_1%7D%7Bc_2%7D "\\frac{c\_1}{c\_2}") das restrições que “cercam” a reta Z
+1. A faixa de otimalidade dos coeficientes da F.O. estarão entre os coeficientes das restrições que “cercam” a F.O.
+
+### **Coeficientes da F. O.**: Qual é a utilidade dos coefs. da FO? (tomada de decisão)
+
+1. Suponha que as receitas unitárias para os produtos 1 e 2 sejam alteradas para $ 35 e $ 25, respectivamente. A solução ótima atual permanecerá a mesma?
+1. Suponha que a receita unitária do produto 2 seja fixada em um valor atual de ![formula](http://latex.codecogs.com/gif.latex?c_2 "c\_2") = $ 20. Qual é a faixa de variação para ![formula](http://latex.codecogs.com/gif.latex?c_1 "c\_1"), a receita unitária do produto 1, que manterá a solução ótima inalterada?
+
+> **Exemplo: Questão Pinta Como Eu Pinto**
+> 
+> A Pinta Como Eu Pinto produz tintas para interiores e exteriores com base em duas matérias primas: M1 e M2. (ver tabela) Uma pesquisa de mercado indica que a demanda diária de tintas para interiores não pode ultrapassar a de tintas para exteriores por mais de 1 tonelada. Além disso, a demanda máxima diária de tinta para interiores é de 2 toneladas. Qual é o mix ótimo (melhor) de produtos de tintas para interiores e exteriores que a Pinta Como Eu Pinto deve produzir para maximizar o lucro total diário.
+
+| Matérias-primas                    | Tinta para   exteriores | Tinta para   interiores | Disponibilidade   máxima diária (ton) |
+|------------------------------------|-------------------------|-------------------------|---------------------------------------|
+| M1                                 | 6                       | 4                       | 24                                    |
+| M2                                 | 1                       | 2                       | 6                                     |
+| Lucro por tonelada (R$   1.000,00) | 5                       | 4                       |                                       |
+

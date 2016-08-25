@@ -1,0 +1,22 @@
+---
+title: ozark-farms
+tags: ["p unb mmqd1", "otim graf", "prova_titulos"]
+notebook: p-unb-mmqd1-exercicios
+---
+
+# Exercicio - Ozark Farms
+*Exemplo 2.2-2, pg. 11, taha, 2008*
+
+A Ozark Farms usa no mínimo 800 lb de ração especial por dia. Essa ração especial é uma mistura de milho e soja com as composições elencadas na Tabela a seguir.
+
+| Lb por lb   de ração |          |       |               |
+|----------------------|----------|-------|---------------|
+| Ração                | Proteína | Fibra | Custo (R$/lb) |
+| Milho                | 0,09     | 0,02  | 0,3           |
+| Soja                 | 0,6      | 0,06  | 0,9           |
+
+Os requisitos nutricionais da ração especial são de no mínimo 30% de proteína e de no máximo 5% de fibra. A Ozark Farms quer determinar a mistura que gera a ração de mínimo custo diário.
+
+Otimize o problema.
+
+<en-media style="height: auto;" type="image/png" hash="2f29c85a211c824a0b4eaffff113876a"/>

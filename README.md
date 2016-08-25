@@ -38,7 +38,7 @@ Métodos analíticos aplicados à solução de problemas complexos e modelagem q
 | Dia        | Dia da Semana | Número da Semana do Ano | Matérias concluídas |
 |------------|---------------|-------------------------|---------------------|
 | 18/08/2016 | 5             | 34                      | Introdução                    |
-| 23/08/2016 | 3             | 35                      |                     |
+| 23/08/2016 | 3             | 35                      | [Aula 01 - Método Gráfico](https://gubasso.github.io/unb-mmqd-2016-2/aulas/aula-01-metodo-grafico.html): (continua...)                    |
 | 25/08/2016 | 5             | 35                      |                     |
 | 30/08/2016 | 3             | 36                      |                     |
 | 01/09/2016 | 5             | 36                      |                     |
