@@ -25,9 +25,9 @@ Otimize o problema.
 
 [![Exercício Ozark Farms #1](https://img.youtube.com/vi/aaPKqkJrbzc/0.jpg)](https://www.youtube.com/watch?v=aaPKqkJrbzc)
 
-![exercicio-ozark-farms-solucao-parte1.jpg](.\exercicios\exercicio-ozark-farms-md\exercicio-ozark-farms-solucao-parte1.jpg)
+![exercicio-ozark-farms-solucao-parte1.jpg](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms-solucao-parte1.jpg)
 
 #### Solucao Completa
 
-![exercicio-ozark-farms-solucao.png](.\exercicios\exercicio-ozark-farms-md\exercicio-ozark-farms-solucao.png)
+![exercicio-ozark-farms-solucao.png](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms-solucao.png)
 
