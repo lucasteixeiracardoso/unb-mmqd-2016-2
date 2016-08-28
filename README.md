@@ -3,7 +3,7 @@ Turma de [Métodos e Modelos Quantitativos de Decisão 1](https://matriculaweb.u
 
 ## Atalho Rápido:
 * [Banco de Exercícios](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
-    - [Exercicio - Reddy Mikks "Pinta Como eu Pinto"](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto-md.md)
+    - [Exercicio - Reddy Mikks "Pinta Como eu Pinto"](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto.md)
     - [Exercicio - Ozark Farms](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms.md)
 * [Todas as Aulas](https://gubasso.github.io/unb-mmqd-2016-2/aulas/Evernote_index.html)
 
