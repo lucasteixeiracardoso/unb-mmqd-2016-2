@@ -43,7 +43,7 @@ Qual é o mix ótimo (melhor) de produtos de tintas para interiores e exteriores
 
 #### Método Gráfico: Solucao Completa (@adrianerangel)
 
-![exercicio-reddy-mikks-pinta-como-eu-pinto-solucao-monitora.pdf](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto-solucao-monitora.pdf)
+[Solução que a monitora @adrianerangel fez em PDF](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto-solucao-monitora.pdf)
 
 #### Método Gráfico e Análise de Sensibilidade: Solucao Completa
 ![exercicio-reddy-mikks-pinta-como-eu-pinto-sol-otim-anal-sens.png](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto-sol-otim-anal-sens.png)
