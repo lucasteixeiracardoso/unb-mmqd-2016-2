@@ -3,7 +3,10 @@ Turma de [Métodos e Modelos Quantitativos de Decisão 1](https://matriculaweb.u
 
 ## Atalho Rápido:
 * [Banco de Exercícios](https://gubasso.github.io/unb-mmqd-2016-2/exercicios/Evernote_index.html)
+    - [Exercicio - Reddy Mikks "Pinta Como eu Pinto"](/exercicios/exercicio-reddy-mikks-pinta-como-eu-pinto-md/exercicio-reddy-mikks-pinta-como-eu-pinto-md.md)
+    - [Exercicio - Ozark Farms](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms.md)
 * [Todas as Aulas](https://gubasso.github.io/unb-mmqd-2016-2/aulas/Evernote_index.html)
+
 
 
 ## Informações Gerais
@@ -39,7 +42,7 @@ Métodos analíticos aplicados à solução de problemas complexos e modelagem q
 |------------|---------------|-------------------------|---------------------|
 | 18/08/2016 | 5             | 34                      | Introdução                    |
 | 23/08/2016 | 3             | 35                      | [Aula 01 - Método Gráfico](https://gubasso.github.io/unb-mmqd-2016-2/aulas/aula-01-metodo-grafico.html): (continua...)                    |
-| 25/08/2016 | 5             | 35                      |                     |
+| 25/08/2016 | 5             | 35                      | [Aula 01 - Método Gráfico](https://gubasso.github.io/unb-mmqd-2016-2/aulas/aula-01-metodo-grafico.html): (finalizada)                    |
 | 30/08/2016 | 3             | 36                      |                     |
 | 01/09/2016 | 5             | 36                      |                     |
 | 06/09/2016 | 3             | 37                      |                     |
