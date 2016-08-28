@@ -27,7 +27,7 @@ Otimize o problema.
 
 ![exercicio-ozark-farms-solucao-parte1.jpg](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms-solucao-parte1.jpg)
 
-#### Solucao Completa
+### Solucao Completa
 
 ![exercicio-ozark-farms-solucao.png](/exercicios/exercicio-ozark-farms-md/exercicio-ozark-farms-solucao.png)
 
